@@ -1,5 +1,13 @@
-p
-{
+.Titre-Principal {
     color: blue;
-    font-weight: 100;
+}
+body {
+    color: aquamarine;
+    }
+body {
+    background: url('../img/solo\ leveling.jpg') no-repeat scroll;
+    background-size: cover;
+}
+body {
+    border: 5px solid white;
 }
